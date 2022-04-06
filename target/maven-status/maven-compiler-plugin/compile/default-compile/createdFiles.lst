@@ -1,0 +1,8 @@
+modelodao\personaDao.class
+config\conexion.class
+controlador\controlador.class
+interfaces\CRUD.class
+com\mycompany\prestamo\mvc\java\JAXRSConfiguration.class
+modelo\Persona.class
+com\mycompany\prestamo\mvc\java\resources\JavaEE8Resource.class
+modelo\plandepago.class
